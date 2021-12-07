@@ -8,10 +8,11 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "export": "nuxt export",
+    "serve": "nuxt serve"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "nuxt": "<2.9"
   },
   "devDependencies": {
     "nodemon": "^1.18.9"
